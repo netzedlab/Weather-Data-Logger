@@ -4,12 +4,12 @@
 ## Abstract
 We made five Weather Data Loggers and installed them at Rajiv Gandhi International Airport, Hyderabad to measure the building’s surface temperature, air temperature, humidity for the purpose of the research that is being carried out at NETZED Laboratory, Department of Architecture and Planning, IIT Roorkee.
 
-![Final-Product](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Final%20Product.JPG)
+![Final-Product](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Final%20Product.jpg)
 
 ## Function
 It measures the building’s surface temperature, air temperature, and humidity and logs it in an SD card at an interval of 1 minute.
 
-![Module](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Module.JPG)
+![Module](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Module.jpg)
 
 ## Components
 1. Arduino Uno - Microcontroller
