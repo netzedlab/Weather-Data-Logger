@@ -2,12 +2,12 @@
 ### NETZED Laboratory, DAP, IIT Roorkee
 
 ## Abstract
-We made five Weather Data Loggers and installed them at Rajiv Gandhi International Airport, Hyderabad to measure the building’s surface temperature, air temperature, humidity for the purpose of the research that is being carried out at NETZED Laboratory, Department of Architecture and Planning, IIT Roorkee.
+We made five Weather Data Loggers and installed them at Rajiv Gandhi International Airport, Hyderabad to measure the buildingâ€™s surface temperature, air temperature, humidity for the purpose of the research that is being carried out at NETZED Laboratory, Department of Architecture and Planning, IIT Roorkee.
 
 ![Final-Product](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Final%20Product.jpg)
 
 ## Function
-It measures the building’s surface temperature, air temperature, and humidity and logs it in an SD card at an interval of 1 minute.
+It measures the buildingâ€™s surface temperature, air temperature, and humidity and logs it in an SD card at an interval of 1 minute.
 
 ![Module](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Module.jpg)
 
@@ -17,6 +17,10 @@ It measures the building’s surface temperature, air temperature, and humidity an
 3. DS18B20 Temperature Sensor Probe - Measures Surface Temperature
 4. DHT22 - Measures Air Temperature and Humidity
 5. DC 5V 1A Adapter - Powers the system 
+
+## Circuit Diagram
+
+![Circuit Diagram](https://github.com/SanjeevKrishnan/Weather-Data-Logger/blob/master/Images/Circuit%20Diagram.png)
 
 ## Libraries 
 1. Wire.h - For SD card communication
